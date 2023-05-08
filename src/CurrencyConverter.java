@@ -10,7 +10,7 @@ public class CurrencyConverter {
 
 		System.out.print("Choose the  currency to conver(USD,NRS,EURO): ");
 		String c = sc.next().toUpperCase();
-		
+		 // test code by DM
 		
 		System.out.print("Choose the currency to get converted(USD, NRS, EURO): ");
 		String c2 = sc.next().toUpperCase();
